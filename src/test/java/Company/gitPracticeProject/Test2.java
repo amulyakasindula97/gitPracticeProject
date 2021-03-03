@@ -8,6 +8,7 @@ public class Test2 {
 	
 	@Test
 	public void firstTest() {
+		System.out.println("hello ");
 		assertTrue(false, "Test is Failed...!");
 	}
 
